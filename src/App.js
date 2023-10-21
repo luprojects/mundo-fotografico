@@ -1,25 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
-
+import { Fotografico } from '../src/components/texto/Fotografico'
+import { Titulo } from '../src/components/texto/Titulo'
+import GaleriaCode from "./components/galery/GaleriaCode";
+import { Logo } from './components/logo/Logo';
+import Particless from './components/particles/Particless';
+import Track from './components/sonido/Track'
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  return(<>
+
+<div className='bg-mov'>
+  <Logo />
+<Track/>
+<GaleriaCode />
+<Titulo />
+<Fotografico />
+<Particless />
+</div>
+</>);
 }
 
 export default App;

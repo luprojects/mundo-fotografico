@@ -1,0 +1,17 @@
+
+  
+.audiodisplay{
+  margin-top: 40%;
+}
+
+
+audio {
+
+    width: 100%;
+    max-width: 100px; 
+    position: fixed;
+    z-index: 100;
+    margin-left: 5%;
+    
+  }
+  
