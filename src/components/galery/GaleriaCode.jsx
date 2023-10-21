@@ -23,38 +23,7 @@ import img21 from "../../components/galery/assets/21.jpg";
 import img22 from "../../components/galery/assets/22.jpg";
 import img23 from "../../components/galery/assets/23.jpg";
 import img24 from "../../components/galery/assets/24.jpg";
-import img25 from "../../components/galery/assets/25.jpg";
-import img26 from "../../components/galery/assets/26.jpg";
-import img27 from "../../components/galery/assets/27.jpg";
-import img28 from "../../components/galery/assets/28.jpg";
-import img29 from "../../components/galery/assets/29.jpg";
-import img30 from "../../components/galery/assets/30.jpg";
-import img31 from "../../components/galery/assets/31.jpg";
-import img32 from "../../components/galery/assets/32.jpg";
-import img33 from "../../components/galery/assets/33.jpg";
-import img34 from "../../components/galery/assets/34.jpg";
-import img35 from "../../components/galery/assets/35.jpg";
-import img36 from "../../components/galery/assets/36.jpg";
-import img37 from "../../components/galery/assets/37.jpg";
-import img38 from "../../components/galery/assets/38.jpg";
-import img39 from "../../components/galery/assets/39.jpg";
-import img40 from "../../components/galery/assets/40.jpg";
-import img41 from "../../components/galery/assets/41.jpg";
-import img42 from "../../components/galery/assets/42.jpg";
-import img43 from "../../components/galery/assets/43.jpg";
-import img44 from "../../components/galery/assets/44.jpg";
-import img45 from "../../components/galery/assets/45.jpg";
-import img46 from "../../components/galery/assets/46.jpg";
-import img47 from "../../components/galery/assets/47.jpg";
-import img48 from "../../components/galery/assets/48.jpg";
-import img49 from "../../components/galery/assets/49.jpg";
-import img50 from "../../components/galery/assets/50.jpg";
-import img51 from "../../components/galery/assets/51.jpg";
-import img52 from "../../components/galery/assets/52.jpg";
-import img53 from "../../components/galery/assets/53.jpg";
-import img54 from "../../components/galery/assets/54.jpg";
-import img55 from "../../components/galery/assets/55.jpg";
-import img56 from "../../components/galery/assets/56.jpg";
+
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "./1.css";
@@ -84,38 +53,7 @@ const fotos = [
   img22,
   img23,
   img24,
-  img25,
-  img26,
-  img27,
-  img28,
-  img29,
-  img30,
-  img31,
-  img32,
-  img33,
-  img34,
-  img35,
-  img36,
-  img37,
-  img38,
-  img39,
-  img40,
-  img41,
-  img42,
-  img43,
-  img44,
-  img45,
-  img46,
-  img47,
-  img48,
-  img49,
-  img50,
-  img51,
-  img52,
-  img53,
-  img54,
-  img55,
-  img56
+ 
 ];
 
 function GaleriaCode() {
