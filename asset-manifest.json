@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mundo-fotografico/static/css/main.26cfc839.css",
+    "main.js": "/mundo-fotografico/static/js/main.48ea02fa.js",
+    "static/js/329.de58d612.chunk.js": "/mundo-fotografico/static/js/329.de58d612.chunk.js",
+    "static/media/4.jpg": "/mundo-fotografico/static/media/4.9be42fe0c7da85d17404.jpg",
+    "static/media/relax.mp3": "/mundo-fotografico/static/media/relax.907d4b7b7010f980141a.mp3",
+    "static/media/10.jpg": "/mundo-fotografico/static/media/10.8a971603b8000593ce24.jpg",
+    "static/media/8.jpg": "/mundo-fotografico/static/media/8.a6d38aabd8ceb7355390.jpg",
+    "static/media/7.jpg": "/mundo-fotografico/static/media/7.6ebf136bc8436a3f6cf7.jpg",
+    "static/media/3.jpg": "/mundo-fotografico/static/media/3.ab2ba5b6526659450be9.jpg",
+    "static/media/1.jpg": "/mundo-fotografico/static/media/1.7b841db77005ad6238a5.jpg",
+    "static/media/5.jpg": "/mundo-fotografico/static/media/5.abdd477c082353a2a4c3.jpg",
+    "static/media/9.jpg": "/mundo-fotografico/static/media/9.0fcc459ec0d4c8a26f2f.jpg",
+    "static/media/6.jpg": "/mundo-fotografico/static/media/6.b2724d46c4c40db69a67.jpg",
+    "static/media/2.jpg": "/mundo-fotografico/static/media/2.f19db751e9b6c5f35316.jpg",
+    "static/media/logolu.png": "/mundo-fotografico/static/media/logolu.1e96f532840f6907c4d9.png",
+    "static/media/slick.svg": "/mundo-fotografico/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/mundo-fotografico/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/mundo-fotografico/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/mundo-fotografico/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/mundo-fotografico/index.html",
+    "main.26cfc839.css.map": "/mundo-fotografico/static/css/main.26cfc839.css.map",
+    "main.48ea02fa.js.map": "/mundo-fotografico/static/js/main.48ea02fa.js.map",
+    "329.de58d612.chunk.js.map": "/mundo-fotografico/static/js/329.de58d612.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26cfc839.css",
+    "static/js/main.48ea02fa.js"
+  ]
+}
