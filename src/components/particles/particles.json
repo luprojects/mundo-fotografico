@@ -16,17 +16,17 @@
     },
     "modes": {
       "push": {
-        "quantity": 20
+        "quantity": 5
       },
       "repulse": {
-        "distance": 10,
+        "distance": 50,
         "duration": 0.9
       }
     }
   },
   "particles": {
     "color": {
-      "value": "#FFFFFF"
+      "value": "#00FF00"
     },
     "links": {
       "color": "#8fce00",
@@ -36,7 +36,7 @@
       "width": 1
     },
     "collisions": {
-      "enable": true
+      "enable": false
     },
     "move": {
       "direction": "random",
@@ -59,7 +59,7 @@
       "value": 0.5
     },
     "size": {
-      "value": 3 
+      "value": 2 
     },
     "shape": {
       "type": "circle",
