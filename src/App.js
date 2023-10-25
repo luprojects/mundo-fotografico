@@ -6,7 +6,6 @@ import Particless from './components/particles/Particless';
 import Track from './components/sonido/Track'
 function App() {
   return(<>
-
 <div className='bg-mov'>
   <Logo />
 <Track/>
@@ -17,5 +16,4 @@ function App() {
 </div>
 </>);
 }
-
 export default App;

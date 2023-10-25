@@ -52,9 +52,7 @@ import img48 from "../../components/galery/assets/48.jpg";
 import img49 from "../../components/galery/assets/49.jpg";
 import img50 from "../../components/galery/assets/50.jpg";
 
-
 import "./1.css";
-
 const fotos = [
   img1,
   img2,
@@ -105,9 +103,8 @@ const fotos = [
   img47,
   img48,
   img49,
-  img50
+  img50,
 ];
-
 function GaleriaCode() {
   const settings = {
     className: "center",
@@ -117,8 +114,8 @@ function GaleriaCode() {
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
-    speed: 10000,
-    autoplaySpeed: 3000,
+    speed: 30000,
+    autoplaySpeed: 5000,
     adaptiveHeight: true,
     vertical: true,
     verticalSwiping: false,
@@ -142,5 +139,4 @@ function GaleriaCode() {
     </div>
   );
 }
-
 export default GaleriaCode;
