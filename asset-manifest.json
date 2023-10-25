@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mundo-fotografico/static/css/main.b478af1b.css",
-    "main.js": "/mundo-fotografico/static/js/main.830548ea.js",
+    "main.js": "/mundo-fotografico/static/js/main.c7b63bb0.js",
     "static/js/329.b5305cca.chunk.js": "/mundo-fotografico/static/js/329.b5305cca.chunk.js",
     "static/media/relax.mp3": "/mundo-fotografico/static/media/relax.907d4b7b7010f980141a.mp3",
     "static/media/25.jpg": "/mundo-fotografico/static/media/25.c0deed64170ec0b74951.jpg",
@@ -16,6 +16,7 @@
     "static/media/12.jpg": "/mundo-fotografico/static/media/12.e7c4e9aeefbfd48fd33a.jpg",
     "static/media/33.jpg": "/mundo-fotografico/static/media/33.4cab6808b198d9b28942.jpg",
     "static/media/2.jpg": "/mundo-fotografico/static/media/2.d2db8f8fc92c973fe7c8.jpg",
+    "static/media/50.jpg": "/mundo-fotografico/static/media/50.d4d66c456e82a58a573b.jpg",
     "static/media/39.jpg": "/mundo-fotografico/static/media/39.00e867324934fa35624f.jpg",
     "static/media/44.jpg": "/mundo-fotografico/static/media/44.8d9e3c2fb75ab066cab9.jpg",
     "static/media/logolu.png": "/mundo-fotografico/static/media/logolu.1e96f532840f6907c4d9.png",
@@ -35,7 +36,6 @@
     "static/media/46.jpg": "/mundo-fotografico/static/media/46.5285c2159c4198b3a379.jpg",
     "static/media/45.jpg": "/mundo-fotografico/static/media/45.157b8161ecf5e2a811c6.jpg",
     "static/media/29.jpg": "/mundo-fotografico/static/media/29.d1be0942e8b109dc49e6.jpg",
-    "static/media/50.jpg": "/mundo-fotografico/static/media/50.b36665ee42f0a697b67f.jpg",
     "static/media/24.jpg": "/mundo-fotografico/static/media/24.1314a9755a7c2cdf0b95.jpg",
     "static/media/48.jpg": "/mundo-fotografico/static/media/48.aa851e9fdd864b14cab2.jpg",
     "static/media/23.jpg": "/mundo-fotografico/static/media/23.95fbc3412cd0e7e51dae.jpg",
@@ -61,11 +61,11 @@
     "static/media/slick.woff": "/mundo-fotografico/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/mundo-fotografico/index.html",
     "main.b478af1b.css.map": "/mundo-fotografico/static/css/main.b478af1b.css.map",
-    "main.830548ea.js.map": "/mundo-fotografico/static/js/main.830548ea.js.map",
+    "main.c7b63bb0.js.map": "/mundo-fotografico/static/js/main.c7b63bb0.js.map",
     "329.b5305cca.chunk.js.map": "/mundo-fotografico/static/js/329.b5305cca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b478af1b.css",
-    "static/js/main.830548ea.js"
+    "static/js/main.c7b63bb0.js"
   ]
 }
