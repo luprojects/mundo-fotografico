@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mundo-fotografico/static/css/main.6558e9d7.css",
+    "main.css": "/mundo-fotografico/static/css/main.667f8f4f.css",
     "main.js": "/mundo-fotografico/static/js/main.830548ea.js",
     "static/js/329.b5305cca.chunk.js": "/mundo-fotografico/static/js/329.b5305cca.chunk.js",
     "static/media/relax.mp3": "/mundo-fotografico/static/media/relax.907d4b7b7010f980141a.mp3",
@@ -60,12 +60,12 @@
     "static/media/slick.ttf": "/mundo-fotografico/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/mundo-fotografico/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/mundo-fotografico/index.html",
-    "main.6558e9d7.css.map": "/mundo-fotografico/static/css/main.6558e9d7.css.map",
+    "main.667f8f4f.css.map": "/mundo-fotografico/static/css/main.667f8f4f.css.map",
     "main.830548ea.js.map": "/mundo-fotografico/static/js/main.830548ea.js.map",
     "329.b5305cca.chunk.js.map": "/mundo-fotografico/static/js/329.b5305cca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6558e9d7.css",
+    "static/css/main.667f8f4f.css",
     "static/js/main.830548ea.js"
   ]
 }
